@@ -25,4 +25,4 @@ Relationships
 
   question/responses = one-to-many questions have many responses but responses only have one question
 
-  # idea! : storing multiple choice answers as an array
+  # idea! : storing multiple choice answers as an array, instead of needing the answers entity
