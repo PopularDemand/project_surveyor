@@ -1,1 +1,8 @@
-index
+<div class="container">
+  <% @surveys.each do |s| %>
+    <div class="survey-panel">
+      <h1><%= link_to s.title, survey_path(s) %></h1>
+      <p><%= s.description %></p>
+    </div>
+  <% end %>
+</div>

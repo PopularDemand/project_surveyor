@@ -1,2 +1,9 @@
 @import 'bootstrap-sprockets';
-@import 'boostrap';
+@import 'bootstrap';
+
+.survey-panel {
+  border: 1px solid #aaa;
+  margin: 10px;
+  padding: 20px;
+  display: border-box;
+}
