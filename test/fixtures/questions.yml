@@ -1,0 +1,13 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  survey_id: one
+  prompt: MyString
+  question_type: one
+  required: false
+
+two:
+  survey_id: two
+  prompt: MyString
+  question_type: two
+  required: false

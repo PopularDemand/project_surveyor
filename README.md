@@ -12,8 +12,6 @@ Build it, take it, view it.
 4. How do you create a multiple choice questions and also create options for it?
 - nested form
 
-
-
 Entities:
   survey
   question
